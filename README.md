@@ -1,2 +1,2 @@
 # Data Science and Machine Learning
-Data Science and Machine Learning Material
+Data Science and Machine Learning Notes
