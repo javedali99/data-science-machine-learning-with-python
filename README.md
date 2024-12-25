@@ -2,7 +2,6 @@
 
 This repository contains notes and project files related to data science and machine learning using Python. It serves as a resource for understanding various tools and techniques in the field.
 
-## Repository Structure
 
 The repository is organized into the following directories:
 
@@ -16,7 +15,7 @@ The repository is organized into the following directories:
 
 - **images/**: Contains images and visualizations related to the projects and notes.
 
-## Detailed Overview
+
 
 ### 1. Data Science and ML Tools
 
@@ -90,7 +89,7 @@ Ensure you have the following installed:
 
 - **Jupyter Notebook**
 
-- Common data science libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
+- Common data science libraries such as `NumPy`, `Pandas`, `Matplotlib`, and `Scikit-learn`.
 
 ## Contributing
 
