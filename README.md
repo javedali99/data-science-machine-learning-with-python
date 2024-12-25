@@ -17,44 +17,6 @@ The repository is organized into the following directories:
 
 
 
-### 1. Data Science and ML Tools
-
-This directory covers fundamental tools and libraries essential for data science and machine learning in Python:
-
-- **Python Programming**: Basics of Python programming tailored for data analysis.
-
-- **NumPy**: Numerical operations and array manipulations.
-
-- **Pandas**: Data manipulation and analysis using DataFrames.
-
-- **Matplotlib and Seaborn**: Data visualization techniques.
-
-- **Scikit-learn**: Machine learning algorithms and model building.
-
-### 2. Structured Data Projects
-
-Projects in this directory focus on analyzing and modeling structured datasets:
-
-- **Linear Regression**: Predicting continuous outcomes.
-
-- **Logistic Regression**: Classification problems with binary outcomes.
-
-- **Decision Trees and Random Forests**: Tree-based modeling techniques.
-
-- **Support Vector Machines**: Classification using hyperplanes.
-
-- **K-Nearest Neighbors**: Instance-based learning methods.
-
-### 3. Unstructured Data Projects
-
-This section deals with unstructured data types, including text and images:
-
-- **Natural Language Processing (NLP)**: Text preprocessing, sentiment analysis, and topic modeling.
-
-- **Image Processing**: Techniques for handling and analyzing image data.
-
-- **Deep Learning**: Introduction to neural networks for unstructured data.
-
 ## Getting Started
 
 To explore the contents of this repository:
